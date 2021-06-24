@@ -188,7 +188,7 @@
     <value>Unfortunately, it was an file error during install. Please ensure install folder and files is not open in other applicaitions.</value>
   </data>
   <data name="Localization_File_ErrorTitle" xml:space="preserve">
-    <value>File Error</value>
+    <value>文件错误</value>
   </data>
   <data name="Localization_Package_ErrorText" xml:space="preserve">
     <value>Package is corrupted or not valid. Please try another or contact with package owner.</value>
@@ -200,16 +200,16 @@
     <value>Package security verification is not passed. Please try another or contact with package owner.</value>
   </data>
   <data name="Localization_Verify_ErrorTitle" xml:space="preserve">
-    <value>Verification Error</value>
+    <value>验证错误</value>
   </data>
   <data name="Localization_Found_New_Version" xml:space="preserve">
-    <value>Found new version {0}.</value>
+    <value>找到新版本 {0}.</value>
   </data>
   <data name="Localization_Installed_Version" xml:space="preserve">
-    <value>Installed version:</value>
+    <value>已安装版本:</value>
   </data>
   <data name="Localization_Latest_Version" xml:space="preserve">
-    <value>Latest version:</value>
+    <value>最新版本:</value>
   </data>
   <data name="Localization_Press_Refresh_Button" xml:space="preserve">
     <value>请单击 刷新 按钮</value>
@@ -257,7 +257,7 @@
     <value>安装中...</value>
   </data>
   <data name="Localization_InstallVersion_Title" xml:space="preserve">
-    <value>Install version:  {0}</value>
+    <value>安装版本:  {0}</value>
   </data>
   <data name="Localization_InvalidRepoName_Text" xml:space="preserve">
     <value>版本库名称未填写.</value>
@@ -287,7 +287,7 @@
     <value>移除</value>
   </data>
   <data name="Localization_Repositories_Title" xml:space="preserve">
-    <value>Star Citizen : Localization repositories</value>
+    <value>星际公民 : 本地化代码库</value>
   </data>
   <data name="Localization_RunMinimized_Text" xml:space="preserve">
     <value>Run minimized</value>
@@ -296,55 +296,55 @@
     <value>Run On Windows startup</value>
   </data>
   <data name="Localization_Stop_Text" xml:space="preserve">
-    <value>Stop</value>
+    <value>停止</value>
   </data>
   <data name="Localization_Warning_Title" xml:space="preserve">
-    <value>Warning</value>
+    <value>警告</value>
   </data>
   <data name="Localization_Uninstalling_Text" xml:space="preserve">
-    <value>Uninstalling...</value>
+    <value>卸载中...</value>
   </data>
   <data name="Localization_UninstallLocalization_Text" xml:space="preserve">
-    <value>Uninstall localization</value>
+    <value>卸载本地化</value>
   </data>
   <data name="Localization_Uninstall_ErrorText" xml:space="preserve">
     <value>Unable to uninstall localization. Please ensure install folder and files is not open in other applicaitions.</value>
   </data>
   <data name="Localization_Uninstall_ErrorTitle" xml:space="preserve">
-    <value>Uninstall error</value>
+    <value>卸载出错</value>
   </data>
   <data name="Localization_Uninstall_QuestionText" xml:space="preserve">
-    <value>Are you sure your are want uninstall localization and remove all files?</value>
+    <value>你确定要卸载本地化和移除所有响应文件吗？</value>
   </data>
   <data name="Localization_Uninstall_QuestionTitle" xml:space="preserve">
-    <value>Uninstall confirmation</value>
+    <value>卸载确认</value>
   </data>
   <data name="Localization_Uninstall_WarningText" xml:space="preserve">
-    <value>Localization removed not fully. Some files can't be removed.</value>
+    <value>卸载未完全完成，一些文件无法被删除</value>
   </data>
   <data name="Localization_Uninstall_WarningTitle" xml:space="preserve">
-    <value>Uninstall warning</value>
+    <value>卸载警告</value>
   </data>
   <data name="Localization_StdRepos_Title" xml:space="preserve">
-    <value>Standard</value>
+    <value>标准</value>
   </data>
   <data name="Localization_UserRepos_Title" xml:space="preserve">
-    <value>User</value>
+    <value>用户</value>
   </data>
   <data name="Application_Update_Title" xml:space="preserve">
-    <value>Application update</value>
+    <value>软件更新</value>
   </data>
   <data name="Application_CheckForUpdates_Text" xml:space="preserve">
-    <value>Check for application updates...</value>
+    <value>正在检测软件新版本...</value>
   </data>
   <data name="Application_CheckForUpdate_Title" xml:space="preserve">
-    <value>Check for application update</value>
+    <value>检测软件更新</value>
   </data>
   <data name="Application_FailedInstallUpdate_Text" xml:space="preserve">
-    <value>Failed install application update</value>
+    <value>软件新版本安装失败</value>
   </data>
   <data name="Localization_InstallUpdateVer_Text" xml:space="preserve">
-    <value>Install update: {0}</value>
+    <value>安装更新: {0}</value>
   </data>
   <data name="Application_NoUpdatesFound_Text" xml:space="preserve">
     <value>No application updates were found</value>
@@ -361,16 +361,16 @@ Do you want install it now?</value>
     <value>..\res\update.bat;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
   <data name="Localization_DisplayPreReleases_Text" xml:space="preserve">
-    <value>Display alpha versions</value>
+    <value>显示alpha版本</value>
   </data>
   <data name="Localization_AlwaysOnTop_Text" xml:space="preserve">
-    <value>Always On Top</value>
+    <value>置顶</value>
   </data>
   <data name="Localization_QuitApp_Text" xml:space="preserve">
-    <value>Quit</value>
+    <value>退出</value>
   </data>
   <data name="Localization_Settings_Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
   </data>
   <data name="Localization_UseHttpProxy_Text" xml:space="preserve">
     <value>Use Http Proxy</value>
@@ -380,25 +380,25 @@ Do you want install it now?</value>
 Do you want download and install it now?</value>
   </data>
   <data name="Localization_CheckForUpdate_Title" xml:space="preserve">
-    <value>Check for localization update</value>
+    <value>检测本地化更新</value>
   </data>
   <data name="Localization_NoUpdatesFound_Text" xml:space="preserve">
-    <value>No localization updates were found</value>
+    <value>没有检测到本地化更新</value>
   </data>
   <data name="Localization_CheckForUpdates_Text" xml:space="preserve">
-    <value>Check for updates...</value>
+    <value>检测更新中...</value>
   </data>
   <data name="LoggingConfig" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\res\logging-config.xml;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
   <data name="Tools_Move_LIVE_PTU" xml:space="preserve">
-    <value>Move LIVE to PTU</value>
+    <value>转移Live至PTU</value>
   </data>
   <data name="Tools_Move_PTU_LIVE" xml:space="preserve">
-    <value>Move PTU to LIVE</value>
+    <value>转移PTU至Live</value>
   </data>
   <data name="Tools_Title" xml:space="preserve">
-    <value>Tools</value>
+    <value>工具</value>
   </data>
   <data name="Localization_InstallWarning_Text" xml:space="preserve">
     <value>Dear friend,
@@ -412,7 +412,7 @@ But before installation we want to be sure you will read following reminder:
 By clicking "Yes", you confirm that you have read and understood the warning and ready to proceed with the installation.</value>
   </data>
   <data name="Localization_InstallWarning_Title" xml:space="preserve">
-    <value>Warning</value>
+    <value>警告</value>
   </data>
   <data name="Application_UpdatePreReleases_Text" xml:space="preserve">
     <value>Application pre releases</value>
@@ -430,28 +430,28 @@ By clicking "Yes", you confirm that you have read and understood the warning and
     <value>Reset in Page</value>
   </data>
   <data name="GameSettings_Save_Button" xml:space="preserve">
-    <value>Apply</value>
+    <value>应用</value>
   </data>
   <data name="GameSettings_Title" xml:space="preserve">
-    <value>Star Citizen : Settings</value>
+    <value>星际公民 : 设置</value>
   </data>
   <data name="GameSettings_Show_Only_Changed_Button" xml:space="preserve">
     <value>Show Only Changed</value>
   </data>
   <data name="GameSettings_Reset_Setting_Button" xml:space="preserve">
-    <value>Reset Setting</value>
+    <value>重置设置</value>
   </data>
   <data name="GameSettings_Copy_All_Settings_Button" xml:space="preserve">
-    <value>Copy All Settings</value>
+    <value>复制全部设置</value>
   </data>
   <data name="GameSettings_Copy_Setting_Button" xml:space="preserve">
-    <value>Copy Setting</value>
+    <value>复制设置</value>
   </data>
   <data name="GameSettings_Button_Text" xml:space="preserve">
-    <value>Settings {0}</value>
+    <value>设置 {0}</value>
   </data>
   <data name="GameSettings_Error_Title" xml:space="preserve">
-    <value>Error</value>
+    <value>错误</value>
   </data>
   <data name="GameSettings_ProfileAskSave_Text" xml:space="preserve">
     <value>Save changes in profile {0}?</value>
@@ -503,13 +503,13 @@ By clicking "Yes", you confirm that you have read and understood the warning and
 Please report them by using link below</value>
   </data>
   <data name="GameSettings_DefaultValue_Text" xml:space="preserve">
-    <value>Default Value</value>
+    <value>默认值</value>
   </data>
   <data name="GameSettings_MaxValue_Text" xml:space="preserve">
-    <value>Max Value</value>
+    <value>最大值</value>
   </data>
   <data name="GameSettings_MinValue_Text" xml:space="preserve">
-    <value>Min Value</value>
+    <value>最小值</value>
   </data>
   <data name="GameSettings_Step_Text" xml:space="preserve">
     <value>Step</value>
@@ -531,6 +531,6 @@ To proceed please ensure that game is not running and press retry.</value>
     <value>Allow incremental download</value>
   </data>
   <data name="Localization_Modify_Text" xml:space="preserve">
-    <value>Modify</value>
+    <value>修改</value>
   </data>
 </root>
